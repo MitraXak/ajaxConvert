@@ -1,4 +1,4 @@
-
+ЗАПУСТИТЕ ЛОКАЛЬНЫЙ СЕРВЕР
 //объект ajax
 let request = new XmlHttpRequest();
 request.open(method, url, async, login, password)
